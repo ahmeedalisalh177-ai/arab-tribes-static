@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://ahmeedalisalh177-ai.github.io/arab-tribes-reference/sitemap.xml
