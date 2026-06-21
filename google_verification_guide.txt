@@ -1,0 +1,32 @@
+=============================================================================
+دليل التحقق من ملكية الموقع على Google Search Console
+=============================================================================
+
+خطوات التحقق باستخدام HTML File:
+
+1. اذهب إلى: https://search.google.com/search-console
+
+2. انقر على "Start now" أو "Go to Google Search Console"
+
+3. اختر "URL prefix" وأدخل:
+   https://ahmeedalisalh177-ai.github.io/arab-tribes-static/
+
+4. ستظهر نافذة "Verify ownership" - اختر "HTML file"
+
+5. ستحصل على ملف بهذا الاسم:
+   google[رقم عشوائي].html
+   
+   مثال: google1a2b3c4d5e6f.html
+
+6. انسخ محتوى الملف الذي توفره Google
+
+7. أنشئ ملف جديد في المستودع باسم الملف الذي أعطاك إياه Google
+
+8. ضع محتوى الملف في:
+   /arab-tribes-static/google[الرقم].html
+
+9. ارفع الملف إلى GitHub
+
+10. عد إلى Google Search Console وانقر "Verify"
+
+=============================================================================
